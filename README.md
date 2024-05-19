@@ -7,8 +7,8 @@ Just put this resource folder into your server, I recommend creating a new categ
 After that, execute `/tp 40.45, 680.64, 361.46` to see the MLO.
 
 ## images
-[image1](https://github.com/inoue-773/GreenscreenFiveM/blob/images/image.png?raw=true)
-[image2](https://github.com/inoue-773/GreenscreenFiveM/blob/images/tequilalaboxingad.png?raw=true)
+![image1](https://github.com/inoue-773/GreenscreenFiveM/blob/images/image.png?raw=true)
+![image2](https://github.com/inoue-773/GreenscreenFiveM/blob/images/tequilalaboxingad.png?raw=true)
 
 ## Credit
 Original prop created by Michno
